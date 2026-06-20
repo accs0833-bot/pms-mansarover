@@ -1,0 +1,8 @@
+{
+  "name": "Mansarover PMS Audit Hub",
+  "description": "Deep research, audit findings, and interactive UX redesign blueprint for Hotel Mansarover PMS and Booking Engine software.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
